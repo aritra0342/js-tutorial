@@ -14,4 +14,4 @@ console.log(newstringone)
 console.log(newstringone.trim())
 const newname = "siuuuuuuuu20siuuuuuuuu"
 console.log(newname.replace('20','-'))
-console.log(newname.includes('siuu'))
+console.log(newname.includes('siuuuuuu'))
